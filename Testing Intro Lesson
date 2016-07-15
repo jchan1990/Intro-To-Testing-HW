@@ -1,0 +1,56 @@
+Pokemon Go
+Feature #1 Encounter a Pokemon/Catching a Pokemon
+Condition #1 Tapping a Pokemon on the screen will start engage in an encounter
+- As a user, I can tap any Pokemon on my screen and it will engage an encounter with said Pokemon
+- As a user, I can choose which Pokemon I want to engage with in an instance where more then one appear
+Condition #2 Running away
+- As a user, I can tap the run option to leave an encounter at any point during the encounter
+Condition #3 Using items or changing items
+- As a user, I can access the trainer inventory during the encounter by tapping the bag icon
+- As a user, I am able to use berries to feed the Pokemon
+- As a user, I can choose to change Pokeballs during the encounter
+Condition #4 Throwing the ball to catch'em all
+- As a user, I can throw the ball at the Pokemon to catch it
+- As a user, I have can spin the ball before releasing it to add in a curveball feature
+- As a user, I can throw the ball in any direction towards the Pokemon at different angles and speeds(power)
+Condition #5 Toggle the AR function
+- As a user, I can choose to either play with the augmented reality function on or off by simply tapping the AR mode
+Condition #6 Pokemon is caught
+- As a user, I can see visually after a Pokeball has hit the intended target whether or not the Pokemon was caught
+
+Feature #2 Walking around
+Condition #1 Pokemon appears
+- As a user, Pokemon can be encountered as I walk around
+Condition #2 PokeGym
+- As a user, when I approach a gym close enough I can challenge/train said gym
+- As a user, I can tap the gym if it is displayed  on the screen at any time to check the status of the gym and the Pokemon stationed inside
+Condition #3 PokeStop
+- As a user, when I approach a Poke Stop close enough the Poke Stop icon will display an animation to alert the user they are close enough to take an action
+- As a user, when I approach a Poke Stop close enough I can tap a Poke Stop to spin the Stop and randomly replenish my items
+- As a user, when I approach a Poke Stop close enough I can spin the Stop for a chance to gain a Pokemon egg from
+Condition #4 Night and Day
+- As a user, at certain times of the day dependent on location of the user the app will change the display of the background between day and night
+- As a user, when the display for the user changes from day to night and vice versa the Pokemon spawn rate is changed
+Condition #5 Rustling bushes
+- As a user, display rustling bushes on the screen to hint to the user that there may be a Pokemon nearby
+- As a user, when I am close by a rustling bush the chance a Pokemon appears is increased 
+Condition #6 Radar
+- As a user, as I walk around I can check the radar to display Pokemon that are near my vicinity
+- As a user, I can tap a Pokemon on the radar to allow me to try and locate that specific Pokemon
+
+Feature #3 Pokemon Gym Battle
+Condition #1 Change Pokemon
+- As a user, I can change my Pokemon team before entering so I can prepare my team
+Condition #2 Analyze
+- As a user, I can analyze the Pokemon currently stationed in the gym to check the chances of achieving victory
+Condition #3 Exit
+- As a user, I can at any point in the gym, whether I am in the preparation screen or currently challenging the trainers I may exit/run away
+- As a user, I can tap the exit/run away button to leave the gym
+Condition #4 Fighting alongside friends/allies
+- As a user, I can fight alongside friends/allies when battling a gym
+- As a user, I can see friends/allies as I battle
+Condition #5 Attacking
+- As a user, when I tap the screen my Pokemon will attack the opponent
+- As a user when my Pokemon hits the enemy the enemy hit point gauge will slowly deplete
+Condition #6 Winning a battle
+- As a user, when I win a battle "Victory" is displayed on the screen as well as the amount of prestige gained/loss as well as exp gained
